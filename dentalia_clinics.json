@@ -1,0 +1,866 @@
+[
+    {
+        "name": "dentalia Acora Pedregal",
+        "address": "Ladera 16, Jardines del Pedregal de San Ángel, Coyoacán, 04500 Ciudad de México, CDMX.",
+        "latlon": [
+            19.305554198412235,
+            -99.202455040912
+        ],
+        "phones": [
+            "555 677 2596"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Altabrisa",
+        "address": "C. 7 451-451, Col. Altabrisa, 97130 Mérida, Yuc.",
+        "latlon": [
+            21.017531944164347,
+            -89.58246682883488
+        ],
+        "phones": [
+            "999 211 0274"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Altaria",
+        "address": "Blvd. A Zacatecas 849-L-1117, AyL, 20116 Aguascalientes, Ags.",
+        "latlon": [
+            21.922698335562913,
+            -102.28935502883488
+        ],
+        "phones": [
+            "449 925 8100"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Altavista",
+        "address": "Plaza Altavista Calzada, Desierto de los Leones 52, Álvaro Obregón, 01000 Ciudad de México, CDMX.",
+        "latlon": [
+            19.348975750474455,
+            -99.1892851749832
+        ],
+        "phones": [
+            "555 616 2386"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Andares",
+        "address": "Blvrd Puerta de Hierro 4965, Puerta de Hierro, 45116 Zapopan, Jal.",
+        "latlon": [
+            20.710256423058418,
+            -103.41188946146337
+        ],
+        "phones": [
+            "333 611 1725"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Centro Santa Fe",
+        "address": "Vasco de Quiroga 3800, Lomas de Santa Fe, Contadero, Cuajimalpa de Morelos, 05348 Ciudad de México, CDMX.",
+        "latlon": [
+            19.36218969207021,
+            -99.27153300381786
+        ],
+        "phones": [
+            "554 737 8431"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Chihuahua Fashion Mall",
+        "address": "Perif. de la Juventud 3501-Local 36-37, Plaza del Sol, 31236 Chihuahua, Chih.",
+        "latlon": [
+            28.6220243467249,
+            -106.11429620176875
+        ],
+        "phones": [
+            "614 430 3127"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Citadel",
+        "address": "Av. Rómulo Garza 410-Local b-11, Sin Nombre de Col 34, 66477 San Nicolás de los Garza, N.L.",
+        "latlon": [
+            25.726566629638494,
+            -100.21489883176572
+        ],
+        "phones": [
+            "818 240 9650"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia City Shops Del Valle",
+        "address": "Félix Cuevas 374, Tlacoquemecatl del Valle, Benito Juárez, 03200 Ciudad de México, CDMX.",
+        "latlon": [
+            19.372955467354046,
+            -99.17270984614788
+        ],
+        "phones": [
+            "555 335 0717"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia City Shops Valle Dorado",
+        "address": "Perif. Blvd. Manuel Ávila Camacho 3130, Valle Dorado, 54030 Tlalnepantla, Méx.",
+        "latlon": [
+            19.547699923611546,
+            -99.21084879031926
+        ],
+        "phones": [
+            "552 159 4878"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Coapa",
+        "address": "Gran Terraza Coapa, Calz Acoxpa 610, Coapa, Equipamiento Plaza Coapa, Tlalpan, 14390 Ciudad de México, CDMX.",
+        "latlon": [
+            19.294541986860537,
+            -99.12811487498415
+        ],
+        "phones": [
+            "554 737 8438"
+        ],
+        "working_hours": [
+            "mon-fri 11:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Diagonal Cuitláhuac",
+        "address": "Av. Cuitláhuac 2309, San Salvador Xochimanca, Azcapotzalco, 02870 Ciudad de México, CDMX.",
+        "latlon": [
+            19.4601409426312,
+            -99.17773877189116
+        ],
+        "phones": [
+            "554 737 8440"
+        ],
+        "working_hours": [
+            "mon-fri 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Encuentro Fortuna",
+        "address": "Av Fortuna 334, Capultitlan, Gustavo A. Madero, 07760 Ciudad de México, CDMX.",
+        "latlon": [
+            19.483807139649034,
+            -99.1328470614855
+        ],
+        "phones": [
+            "555 035 6918"
+        ],
+        "working_hours": [
+            "mon-fri 11:00 - 20:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Encuentro Oceania",
+        "address": "Av. del Peñón 355, Moctezuma 2da Secc, Venustiano Carranza, 15530 Ciudad de México, CDMX.",
+        "latlon": [
+            19.43912684137754,
+            -99.09449432883488
+        ],
+        "phones": [
+            "555 766 9999"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Fiesta Anahuac",
+        "address": "Plaza fiesta anáhuac, Av. Manuel L. Barragán 325-int 1153, Anáhuac, 66457 San Nicolás de los Garza, N.L.",
+        "latlon": [
+            25.741913505574875,
+            -100.31395167485127
+        ],
+        "phones": [
+            "818 332 2975"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Fiesta San Agustín",
+        "address": "Av. Batallón de San Patricio 1000-Local 2222, Zona San Agustín, 66260 San Pedro Garza García, N.L.",
+        "latlon": [
+            25.649518312235724,
+            -100.33590527350961
+        ],
+        "phones": [
+            "800 003 3682"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Forum Buenavista",
+        "address": "Eje 1 Nte. 259, Buenavista, Cuauhtémoc, 06350 Ciudad de México, CDMX.",
+        "latlon": [
+            19.447026032103356,
+            -99.15214543265128
+        ],
+        "phones": [
+            "555 541 0348"
+        ],
+        "working_hours": [
+            "mon-thu 10:00 - 21:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Galerías Atizapan",
+        "address": "Av. Adolfo Ruiz Cortines 255, Las Margaritas, 52977 Cdad. López Mateos, Méx.",
+        "latlon": [
+            19.54948009211156,
+            -99.27353430381461
+        ],
+        "phones": [
+            "554 123 7518"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Galerías Guadalajara",
+        "address": "Av Rafael Sanzio 150, La Estancia, 45030 Zapopan, Jal.",
+        "latlon": [
+            20.676592743119347,
+            -103.43250580379426
+        ],
+        "phones": [
+            "333 631 2172"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Galerías Laguna",
+        "address": "Periférico Raúl López Sánchez 6000, Residencial el Fresno, 27018 Torreón, Coah.",
+        "latlon": [
+            25.58181757747191,
+            -103.40553009019469
+        ],
+        "phones": [
+            "871 750 8099"
+        ],
+        "working_hours": [
+            "mon-fri 11:00 - 21:00",
+            "sat-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Galerías Mall Sonora",
+        "address": "Av Cultura 55-Local C-19 y, C-20, 83280 Hermosillo, Son.",
+        "latlon": [
+            29.06591967543686,
+            -110.95206070360067
+        ],
+        "phones": [
+            "662 212 1961"
+        ],
+        "working_hours": [
+            "mon-sun 9:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Galerías Monterrey",
+        "address": "Av Insurgentes 2500-Local 737, Monterrey, 64630 Monterrey, N.L.",
+        "latlon": [
+            25.680823441729252,
+            -100.35416227116511
+        ],
+        "phones": [
+            "818 123 3629"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Galerías Saltillo",
+        "address": "Boulevard Nazario Ortiz Garza, Blvd. Galerías 2345, 25000 Saltillo, Coah.",
+        "latlon": [
+            25.457949138783988,
+            -100.98051003252786
+        ],
+        "phones": [
+            "844 485 1820"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Galerías Valle Oriente",
+        "address": "Av Lázaro Cárdenas 1000, Paseo de Las Privanzas, 64750 Monterrey, N.L.",
+        "latlon": [
+            25.63810691383944,
+            -100.31340129867075
+        ],
+        "phones": [
+            "800 003 3682"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Gran Plaza",
+        "address": "Av. Ignacio L Vallarta 3959-Local g-2, La Gran Plaza, 45049 Guadalajara, Jal.",
+        "latlon": [
+            20.67306288383997,
+            -103.40524534029151
+        ],
+        "phones": [
+            "333 621 1851"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Gran Sur",
+        "address": "Av. del Imán 151, El Caracol, Coyoacán, 04700 Ciudad de México, CDMX.",
+        "latlon": [
+            19.305247345741414,
+            -99.16643619682276
+        ],
+        "phones": [
+            "552 457 1950"
+        ],
+        "working_hours": [
+            "mon-fri 11:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Juriquilla",
+        "address": "Blvrd de la Campana 899, Jurica Acueducto, 76230 Juriquilla, Qro.",
+        "latlon": [
+            20.705722781191238,
+            -100.4439716529355
+        ],
+        "phones": [
+            "442 688 1100"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia La Cúspide",
+        "address": "Avenida Lomas Verdes Manzana 001 Lote 21, La Cuspide, 53129 Naucalpan de Juárez, Méx.",
+        "latlon": [
+            19.513324706128603,
+            -99.26659475841353
+        ],
+        "phones": [
+            "555 349 2760"
+        ],
+        "working_hours": [
+            "mon-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Las Antenas",
+        "address": "Av. Canal de Garay 3278, La Esperanza, Iztapalapa, 09910 Ciudad de México, CDMX.",
+        "latlon": [
+            19.31486726436113,
+            -99.07711813665651
+        ],
+        "phones": [
+            "555 047 2093"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Las Misiones",
+        "address": "Blvd. Teófilo Borunda 8681, Bosques del Sol, 32663 Juárez, Chih.",
+        "latlon": [
+            31.686979733132947,
+            -106.40948890352547
+        ],
+        "phones": [
+            "656 478 7700"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Magnocentro Interlomas",
+        "address": "Blvd. Magnocentro 35, La Herradura, 52760 Naucalpan de Juárez, Méx.",
+        "latlon": [
+            19.40609170690319,
+            -99.27269639813571
+        ],
+        "phones": [
+            "555 290 1807"
+        ],
+        "working_hours": [
+            "mon-fri 8:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Metrópoli Patriotismo",
+        "address": "Av. Patriotismo 229-7 Local 116-a, San Pedro de los Pinos, Benito Juárez, 01180 Ciudad de México, CDMX.",
+        "latlon": [
+            19.395982706681867,
+            -99.18076160409325
+        ],
+        "phones": [
+            "553 547 2747"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Midtown Jalisco",
+        "address": "Av Adolfo López Mateos Nte 2405, Italia Providencia, 44648 Guadalajara, Jal.",
+        "latlon": [
+            20.694404044414203,
+            -103.3757292695359
+        ],
+        "phones": [
+            "333 817 1929"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 10:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Miyana",
+        "address": "Av. Ejército Nacional Mexicano 769, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX.",
+        "latlon": [
+            19.43979211933664,
+            -99.20038048590106
+        ],
+        "phones": [
+            "555 616 7555"
+        ],
+        "working_hours": [
+            "mon-fri 7:00 - 20:00",
+            "sat-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Multiplaza Lindavista",
+        "address": "Av. Miguel Alemán 5054, 67130 Guadalupe, N.L.",
+        "latlon": [
+            25.69043145420838,
+            -100.24787154354713
+        ],
+        "phones": [
+            "818 850 4121"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 10:00 - 19:00"
+        ]
+    },
+    {
+        "name": "dentalia Mundo E",
+        "address": "Tlalnepantla de Baz, Perif. Blvd. Manuel Ávila Camacho 1007-Local 26B-27B, 54050 Ciudad de México.",
+        "latlon": [
+            19.524367282211596,
+            -99.22714086638689
+        ],
+        "phones": [
+            "555 047 2095"
+        ],
+        "working_hours": []
+    },
+    {
+        "name": "dentalia Oasis Coyoacán",
+        "address": "Av. Universidad 1778, Romero de Terreros, Coyoacán, 04310 Ciudad de México, CDMX.",
+        "latlon": [
+            19.345598246316253,
+            -99.17947808955367
+        ],
+        "phones": [
+            "555 554 4990"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Parque Delta",
+        "address": "Av. Cuauhtémoc 462-Locales L-301 / L- 301B, Piedad Narvarte, Benito Juárez, 03010 Ciudad de México, CDMX.",
+        "latlon": [
+            19.403490952732355,
+            -99.1534000698667
+        ],
+        "phones": [
+            "555 080 4860"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Parque Lindavista",
+        "address": "Colector 13 280, Revolución IMSS, Gustavo A. Madero, 07760 Ciudad de México, CDMX.",
+        "latlon": [
+            19.48653324610542,
+            -99.1317466049699
+        ],
+        "phones": [
+            "555 119 9966"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00",
+            "sat-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Parque Tezontle",
+        "address": "Canal de Tezontle 1512-Local 279, Área Federal Central de Abastos, Iztapalapa, 07760 Ciudad de México, CDMX.",
+        "latlon": [
+            19.38396241166868,
+            -99.08267199573336
+        ],
+        "phones": [
+            "559 129 0134"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Parque Toreo",
+        "address": "Perif. Blvd. Manuel Ávila Camacho 5-LC 18-19, Residencial Lomas de Sotelo, 53390 Naucalpan de Juárez, Méx.",
+        "latlon": [
+            19.455022065582373,
+            -99.2188172038162
+        ],
+        "phones": [
+            "555 080 4863"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Paseo Acoxpa",
+        "address": "Calz Acoxpa 430, Coapa, Ex-Hacienda Coapa, Tlalpan, 14300 Tlalnepantla, CDMX.",
+        "latlon": [
+            19.298963191836,
+            -99.13689460181844
+        ],
+        "phones": [
+            "555 677 2198"
+        ],
+        "working_hours": [
+            "mon-fri 10:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Paseo Chapultepec",
+        "address": "Blvd. Agua Caliente 10387-Local c2, Neidhart, 22024 Tijuana, B.C.",
+        "latlon": [
+            32.514010673247974,
+            -117.0122538443738
+        ],
+        "phones": [
+            "664 681 8911"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Patio Universidad",
+        "address": "Av. Popocatépetl 546, Xoco, Benito Juárez, 03330 Ciudad de México, CDMX.",
+        "latlon": [
+            19.365575335466982,
+            -99.16717876445271
+        ],
+        "phones": [
+            "555 601 4242"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Península Tijuana",
+        "address": "Vía Rápida Ote. 15000, Chapultepec Alamar, 22150 Tijuana, B.C.",
+        "latlon": [
+            32.513650704314976,
+            -116.96562298417071
+        ],
+        "phones": [
+            "664 423 0960"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Playa del Carmen",
+        "address": "Quinta Avenida 156, Centro, 77710 Playa del Carmen, Q.R.",
+        "latlon": [
+            20.62486277617183,
+            -87.07364187895028
+        ],
+        "phones": [
+            "984 803 2962"
+        ],
+        "working_hours": [
+            "mon-sat 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Plaza Carso",
+        "address": "C. Lago Zurich 219, Amp Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX.",
+        "latlon": [
+            19.442761512193307,
+            -99.20355044736776
+        ],
+        "phones": [
+            "555 580 7866"
+        ],
+        "working_hours": [
+            "mon-fri 8:00 - 21:00",
+            "sat-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Plaza Mayor",
+        "address": "Blvd. Juan Alonso de Torres Pte. 2002, Valle del Campestre, 37150 León de los Aldama, Gto.",
+        "latlon": [
+            21.15742678053113,
+            -101.69547054611546
+        ],
+        "phones": [
+            "477 717 2580"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Plaza San Luis",
+        "address": "Blvd. Antonio Rocha Cordero 700, 78215 San Luis Potosí, S.L.P.",
+        "latlon": [
+            22.126587629996422,
+            -101.02962430559941
+        ],
+        "phones": [
+            "444 817 4435"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Puerta La Victoria",
+        "address": "Av. Constituyentes Ote. 38, zona dos extendida, Mercurio, 76046 Santiago de Querétaro, Qro.",
+        "latlon": [
+            20.58581250800861,
+            -100.38184966934618
+        ],
+        "phones": [
+            "442 229 1010"
+        ],
+        "working_hours": [
+            "fri-sat 11:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Punto MAQ",
+        "address": "Plaza Punto MAQ, Av. Miguel Ángel de Quevedo 1144, Parque San Andrés, Coyoacán, 04010 Ciudad de México, CDMX.",
+        "latlon": [
+            19.342919251867066,
+            -99.14664673886311
+        ],
+        "phones": [
+            "554 737 8480"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Real Center",
+        "address": "Locales, 3600, C-10 y C-11, Sta Margarita, 45136 Zapopan, Jal.",
+        "latlon": [
+            20.731947272136868,
+            -103.43007436498138
+        ],
+        "phones": [
+            "331 371 5223"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Reforma 222",
+        "address": "Av. P.º de la Reforma 222-Floor 3, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.",
+        "latlon": [
+            19.42867038998255,
+            -99.16166539989335
+        ],
+        "phones": [
+            "555 207 7649"
+        ],
+        "working_hours": [
+            "mon-sun 7:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Samara",
+        "address": "Antonio Dovali Jaime 70-Local PL09B, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01219 Ciudad de México, CDMX.",
+        "latlon": [
+            19.367919613790864,
+            -99.25894353535375
+        ],
+        "phones": [
+            "555 775 6886"
+        ],
+        "working_hours": [
+            "mon-fri 8:00 - 20:00",
+            "sat-sun 9:00 - 18:00"
+        ]
+    },
+    {
+        "name": "dentalia Satélite",
+        "address": "Naucalpan de Juárez, Cto Centro Comercial 2252-Local SA01, 53100 Ciudad de México.",
+        "latlon": [
+            19.510387567642702,
+            -99.23398255876602
+        ],
+        "phones": [
+            "551 102 3864"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Solesta",
+        "address": "Atlixcáyotl 4931, Reserva Territorial Atlixcáyotl, Centros Comerciales Desarrollo Atlixcayotl, 72193 Heroica Puebla de Zaragoza, Pue.",
+        "latlon": [
+            19.034147582300427,
+            -98.22912636259139
+        ],
+        "phones": [
+            "222 283 9713"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 21:00"
+        ]
+    },
+    {
+        "name": "dentalia Tlatelolco",
+        "address": "Manuel Gonzalez 113, San Simón Tolnahuac, Cuauhtémoc, 06920 Ciudad de México, CDMX.",
+        "latlon": [
+            19.45603069032074,
+            -99.14274923001116
+        ],
+        "phones": [
+            "554 737 8432"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Town Square Metepec",
+        "address": "Av. Ignacio Comonfort 1100, Residencial la Providencia, 52177 San Francisco Coaxusco, Méx.",
+        "latlon": [
+            19.267152059019857,
+            -99.60582822624283
+        ],
+        "phones": [
+            "722 271 3108"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Urban Center Cancún",
+        "address": "Av. Nichupté S/N-A, entre Acanceh y Tulum, 77500 Cancún, Q.R.",
+        "latlon": [
+            21.144931917629,
+            -86.82536083400878
+        ],
+        "phones": [
+            "998 882 1395"
+        ],
+        "working_hours": [
+            "mon-fri 9:00 - 20:00"
+        ]
+    },
+    {
+        "name": "dentalia Vía 515",
+        "address": "Viad. Río de la Piedad 515, Granjas México, Iztacalco, 08400 Ciudad de México, CDMX.",
+        "latlon": [
+            19.40553801292363,
+            -99.1105862015306
+        ],
+        "phones": [
+            "554 737 8436"
+        ],
+        "working_hours": [
+            "mon-sun 11:00 - 20:00"
+        ]
+    }
+]
